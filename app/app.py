@@ -4,8 +4,8 @@ import datetime as dt
 import pandas as pd
 from alpaca_trade_api.rest import REST, TimeFrame
 
-API_KEY = 'PKWZQ9TTQYG9H00RUGS0'
-SECRET_KEY = '7C45wJDOuh5drGCarAa9JIKviKSeicitFYIZTpXQ'
+API_KEY = ''
+SECRET_KEY = ''
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'servicekey_googlecloud.json'
 
